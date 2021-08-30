@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @VincentGerard, a 21 year old belgian student,
 - 🧐 I'm studying software development and networking at HEPL,
 - 👀 I’m interested in software development and cryptocurrencies,
-- 🌱 I’m currently learning python, javascript/typescript and pinescript,
-- 🏗️ I'm currently developing a cryptocurrency trading bot using Tradingview and Binance API's,
-- 👷 I’m looking for a fulltime job as a remote software developer.
+- 🌱 I’m currently learning java, minecraft programming(spigot/papermc APIs),
+- 🏗️ I'm currently developing a minecraft plugin in Java,
 - 📫 How to reach me: mail.vincent.gerard@gmail.com 
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VincentGerard, a 20 year old belgian student,
+- 👋 Hi, I’m @VincentGerard, a 21 year old belgian student,
 - 🧐 I'm studying software development and networking at HEPL,
 - 👀 I’m interested in software development and cryptocurrencies,
 - 🌱 I’m currently learning python, javascript/typescript and pinescript,

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VincentGerard, a 21 year old belgian student,
-- 🧐 I'm studying software development and networking at HEPL,
+- 🧐 I'm studying software development and networking at 19 in Brussels (42 Network)
 - 👀 I’m interested in software development and cryptocurrencies,
 - 🌱 I’m currently learning java, minecraft programming(spigot/papermc APIs),
 - 🏗️ I'm currently developing a minecraft plugin in Java,

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VincentGerard, a 21 year old belgian student,
+- 👋 Hi, I’m @VincentGerard, a 22 year old belgian student,
 - 🧐 I'm studying software development and networking at 19 in Bruxelles (42 Network)
 - 👀 I’m interested in software development and cryptocurrencies,
 - 🏗️ I'm currently developing a ebay price scalper,

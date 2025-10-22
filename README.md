@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VincentGerard, a 22 year old belgian student,
-- 🧐 I'm studying software development and networking at 19 in Bruxelles (42 Network)
+- 👋 Hi, I’m @VincentGerard,
 - 👀 I’m interested in software development and cryptocurrencies,
-- 🏗️ I'm currently developing a ebay price scalper,
+- 🏗️ I'm currently working on a secret project (should be in prod in the next month),
+- 📫 Linkedin: linkedin.com/in/vincent-gerard-be
 - 📫 How to reach me: mail.vincent.gerard@gmail.com 
 
 <!---
